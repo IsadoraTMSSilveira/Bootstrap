@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+
+.footer{
+    background: #153ef5;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+/*Breakpoints para resoluções específicas (smartphones, tablets, dispositivos pequenos) */
